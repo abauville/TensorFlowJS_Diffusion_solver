@@ -2,6 +2,10 @@
 
 My first project in tensorflow JS
 
+# Resources
+
+- [Tensor to image](https://www.oreilly.com/library/view/learning-tensorflowjs/9781492090786/ch04.html)
+
 ## Installation
 
 TS.js [installation instructions](https://www.tensorflow.org/js/tutorials/setup).
